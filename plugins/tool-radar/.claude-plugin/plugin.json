@@ -1,0 +1,6 @@
+{
+  "name": "tool-radar",
+  "version": "1.1.0",
+  "description": "Suggests vetted Claude Code plugins, skills, MCPs and dev tools for the current project.",
+  "author": { "name": "CenkZafer" }
+}
