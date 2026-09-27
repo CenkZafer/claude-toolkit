@@ -1,0 +1,11 @@
+{
+  "name": "claude-toolkit",
+  "owner": { "name": "CenkZafer" },
+  "plugins": [
+    {
+      "name": "tool-radar",
+      "source": "./plugins/tool-radar",
+      "description": "Cenk's curated tool radar: suggests vetted plugins, skills, MCPs and tools when starting or setting up a software project."
+    }
+  ]
+}
